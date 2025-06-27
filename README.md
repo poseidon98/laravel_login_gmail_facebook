@@ -13,7 +13,5 @@
 
 
 stack yang digunakan
-- laravel breeze
-- vite
+- laravel 
 - tailwind
-- socialite
